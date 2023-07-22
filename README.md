@@ -1,2 +1,8 @@
 # Sidcup-family-Golf-website-clone
 This is Clone website of Sidcup family golf using HTML , CSS ,JS &amp; JS library GSAP.
+
+In this clone I have used a JS library GSAP to make Custom Cursor .
+Also I have shown how you can make your own custom Side Scrollbar any more .
+
+Uploading clone 1.mp4…
+
